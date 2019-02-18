@@ -23,7 +23,7 @@ for(i=0;i<n;i++)
  for(i=0;i<n;i++)
  {
  printf("%d",a[i]);
+ }
  return 0;
- }
- }
+}
  
