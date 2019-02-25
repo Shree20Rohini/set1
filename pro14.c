@@ -1,4 +1,4 @@
-#shree
+//shree
 #include <stdio.h>
 int main()
 {
